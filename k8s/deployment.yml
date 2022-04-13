@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: pet
-        image: 274401088258.dkr.ecr.ap-southeast-1.amazonaws.com/sample-jqry:4
+        image: 861531569385.dkr.ecr.eu-west-2.amazonaws.com/k8s-pet:2
 
         ports:
         - containerPort: 80
